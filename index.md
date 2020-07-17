@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: digitalOCEANS™
-        subtitle: Hero subtitle
+        subtitle: A Digital Platform to Enable Global Interoperability in the Maritime Sector
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
