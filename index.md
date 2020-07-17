@@ -2,7 +2,7 @@
 layout: homepage
 title: digitalOCEANS™
 description: A digital platform to enable global interoperability in the maritime sector
-image: /images/isomer-logo.svg
+image: /images/mpalogo.JPG
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
