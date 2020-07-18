@@ -1,11 +1,11 @@
 title: digitalOCEANS™
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/mpalogo.JPG
 
 # Site colors
 colors:
   primary-color: '#01899f'
-  secondary-color: '#14ac61'
+  secondary-color: '#09a276'
   media-colors:
     - title: media-color-one
       color: '#49759a'
