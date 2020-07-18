@@ -3,10 +3,10 @@ title: About
 permalink: /about/
 ---
 ![overview](/images/overview1.png)
-Format: ![Alt Text]
 
-![overview](/images/overview2.png)
-Format: ![Alt Text]
+
+![overview](/images/overview2.JPG)
+
 
 Digital OCEANS is envisioned to be an interoperable super-platform and information hub that facilitates cross-border data exchange and automated services across supply chain players, clearance authorities and other national single windows.
 
