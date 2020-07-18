@@ -4,7 +4,7 @@ title: digitalOCEANS™
 description: A digital platform to enable global interoperability in the maritime sector
 image: /images/mpalogo.JPG
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Officially launched on 27 July 2020. Stay tuned for further updates on this page.
 sections:
     - hero:
         title: digitalOCEANS™
@@ -13,9 +13,9 @@ sections:
         button: Contact Us
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
+            - title: Overview
+              description: What is digitalOCEANS™
+              url: /about/
             - title: Highlight B
               description: Important highlight B is equally important
               url: https://gmail.com
