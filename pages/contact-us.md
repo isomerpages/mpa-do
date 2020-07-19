@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: MPA
+agency_name: Maritime and Port Authority of Singapore (MPA)
 locations:
   - title: Main Office
     address:
