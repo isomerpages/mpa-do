@@ -1,14 +1,14 @@
 ---
 layout: homepage
 title: digitalOCEANS™
-description: A digital platform to enable global interoperability in the maritime sector
+description: A digital platform to enable global interoperability across Maritime Systems 
 image: /images/mpalogo.JPG
 permalink: /
-notification: Officially launched on 27 July 2020. Stay tuned for further updates on this page.
+notification: Officially launched on 28 July 2020. Stay tuned for further updates on this page.
 sections:
     - hero:
         title: digitalOCEANS™
-        subtitle: A Digital Platform to Enable Global Interoperability in the Maritime Sector
+        subtitle: A Digital Platform to Enable Global Interoperability across Maritime Systems 
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
@@ -16,16 +16,12 @@ sections:
             - title: Overview
               description: What is digitalOCEANS™
               url: /about/
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
+            - title: API Documentation
+              description: Port Call Event APIs
               url: /privacy/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
+        title: Our Partners
         description: About a sentence worth of description here
-        button: Button text
+        button: View Launch Event
         url: /faq/
 ---
