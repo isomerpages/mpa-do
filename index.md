@@ -16,12 +16,12 @@ sections:
             - title: Overview
               description: What is digitalOCEANS™
               url: /about/
-            - title: API Documentation
-              description: Port Call Event APIs
+            - title: Our APIs 
+              description: API Documentations
               url: /privacy/
     - infobar:
         title: Our Partners
-        description: About a sentence worth of description here
+        description: <partner logos>
         button: View Launch Event
         url: /faq/
 ---
