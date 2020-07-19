@@ -18,7 +18,7 @@ sections:
               url: /about/
             - title: Our API
               description: API Documentations
-              url: /privacy/
+              url: /api-doc/
     - infobar:
         title: Our Partners
         description: (partner logos)
