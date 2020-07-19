@@ -21,7 +21,7 @@ sections:
               url: /privacy/
     - infobar:
         title: Our Partners
-        description: partner logos
+        description: (partner logos)
         button: View Launch Event
-        url: /faq/
+        url: /launch-event/
 ---
