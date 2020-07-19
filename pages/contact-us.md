@@ -7,7 +7,7 @@ locations:
   - title: Main Office
     address:
         - 460 Alexandra Road
-        - PSA Building ##19-00
+        - PSA Building '#19-00
         - Singapore 119963
     maps_link: https://goo.gl/maps/3xmnme9Pw37mA1Jm9
     operating_hours:
