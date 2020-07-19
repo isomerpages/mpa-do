@@ -22,6 +22,6 @@ sections:
     - infobar:
         title: Our Partners
         description: (partner logos)
-        button: View Launch Event
+        button: View MOU Event
         url: /launch-event/
 ---
