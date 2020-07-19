@@ -1,5 +1,5 @@
 ---
-title: APIs
+title: API
 permalink: /api-doc/
 ---
 
