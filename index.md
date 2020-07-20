@@ -13,7 +13,6 @@ sections:
         button: Contact Us
         url: /contact-us/
         key_highlights:
-              url: /about/
             - title: Our API
               description: API Documentations
               url: /api-doc/
