@@ -13,15 +13,14 @@ sections:
         button: Contact Us
         url: /contact-us/
         key_highlights:
-            - title: Overview
-              description: What is digitalOCEANS™
               url: /about/
             - title: Our API
               description: API Documentations
               url: /api-doc/
     - infobar:
         title: Overview
-        description: digitalOCEANS™ (**O**pen/**C**ommon **E**xchange **A**nd **N**etwork **S**tandardisation) is envisioned to be an interoperable super-platform and information hub that facilitates cross-border data exchange and automated services across supply chain players, clearance authorities and other national single windows.
+        subtitle: What is digitalOCEANS™
+        description: digitalOCEANS™ is envisioned to be an interoperable super-platform and information hub that facilitates cross-border data exchange and automated services across supply chain players, clearance authorities and other national single windows.
         button: View More
         url: /about/
 
