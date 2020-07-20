@@ -20,6 +20,8 @@ contacts:
   - title: General Enquiries & Feedback
     content:
     - phone: +65 6375 1600
-    - email: test@abc.gov.sg
+    - email: WU_Zhenwei@mpa.gov.sg
+    - email: Gavin_YEO@mpa.gov.sg
+    - email: FOO_Chi_Jao@mpa.gov.sg
     - other: Any text here <i>including HTML</i>
 ---
