@@ -31,9 +31,6 @@ sections:
             -Maersk GTD
             -Port of Rotterdam Authority
             -PSA International
-             
-            
-        </ul>>
         button: View MoU Event
         url: /launch-event/
 
