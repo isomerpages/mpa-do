@@ -25,12 +25,8 @@ sections:
 
     - infobar:
         title: Our Partners
-        description: CargoSmart
+        description: (list partners)
         button: View MoU Event
         url: /launch-event/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        image: /images/mpalogo.JPG
-        button: View More
+
 ---
