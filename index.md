@@ -4,7 +4,7 @@ title: digitalOCEANS™
 description: A digital platform to enable global interoperability across Maritime Systems 
 image: /images/mpalogo.JPG
 permalink: /
-notification: MOU signing on 28 July 2020. Stay tuned for further updates on this page.
+notification: MoU signing on 28 July 2020. Stay tuned for further updates on this page.
 sections:
     - hero:
         title: digitalOCEANS™
@@ -25,7 +25,11 @@ sections:
 
     - infobar:
         title: Our Partners
-        description: (partner logos)
-        button: View MOU Event
+        description: CargoSmart
+        button: View MoU Event
         url: /launch-event/
+    - resources:
+        title: Media
+        subtitle: Learn more
+        button: View More
 ---
