@@ -1,31 +1,32 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: digitalOCEANS™
+description: An Initiative to Foster Global Interoperability through Open/Common Data Standards And API Exchanges
+image: /images/mpalogo.JPG
 permalink: /
-notification: Here's a notification bar you can use!
+notification: MoU signing on 28 July 2020. Stay tuned for further updates on this page.
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
+        title: <p style="color:white;font-size:5vh"> digitalOCEANS™ </p>
+        subtitle: An Initiative to Foster Global Interoperability through Open/Common Data Standards And API Exchanges
+        background: /images/hero-bg.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: Our API
+              description: API Documentations
+              url: /api-doc/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        title: Overview
+        subtitle: What is digitalOCEANS™
+        description: digitalOCEANS™ is envisioned to be an interoperable platform and information hub that facilitates cross-border data exchange and automated services across supply chain players, clearance authorities and other national single windows.
+        button: View More
+        url: /about/
+
+    - infobar:
+        title: Our Partners
+        description: -- CargoSmart -- Global e-Trade services -- Maersk GTD -- Port of Rotterdam Authority -- PSA International --
+        button: View MoU Event
+        url: /launch-event/
+
 ---
