@@ -31,5 +31,6 @@ sections:
     - resources:
         title: Media
         subtitle: Learn more
+        image: /images/mpalogo.JPG
         button: View More
 ---
