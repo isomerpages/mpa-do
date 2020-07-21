@@ -25,7 +25,7 @@ sections:
 
     - infobar:
         title: Our Partners
-        description: -- CargoSmart -- Global e-Trade services -- Maersk GTD -- Port of Rotterdam Authority -- PSA International--
+        description: -- CargoSmart -- Global e-Trade services -- Maersk GTD -- Port of Rotterdam Authority -- PSA International --
         button: View MoU Event
         url: /launch-event/
 
