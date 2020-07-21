@@ -25,7 +25,8 @@ sections:
 
     - infobar:
         title: Our Partners
-        description: -CargoSmart
+        description: 
+            -CargoSmart
             -Global e-Trade services
             -Maersk GTD
             -Port of Rotterdam Authority
