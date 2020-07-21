@@ -7,7 +7,7 @@ permalink: /
 notification: MoU signing on 28 July 2020. Stay tuned for further updates on this page.
 sections:
     - hero:
-        title: <p style="color:white;font-size:7vw;font-size:4vh"> digitalOCEANS™ </p>
+        title: <p style="color:white;font-size:7vw"> digitalOCEANS™ </p>
         subtitle: An Initiative to Enable Global Interoperability across Maritime Systems 
         background: /images/hero-bg.jpg
         button: Contact Us
