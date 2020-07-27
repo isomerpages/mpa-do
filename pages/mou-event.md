@@ -1,5 +1,5 @@
 ---
-title: MOU Signing Event on 28 Jul 2020
+title: MOU Signing Event
 permalink: /mou-event/
 ---
 
