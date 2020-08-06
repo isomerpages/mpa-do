@@ -1,5 +1,5 @@
 ---
-title: About
+title: About digitalOCEANS™
 permalink: /about/
 ---
 
