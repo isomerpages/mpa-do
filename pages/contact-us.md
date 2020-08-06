@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: <p style=font-size:5vh"> Maritime and Port Authority of Singapore (MPA) </p>
+agency_name: <p style=font-size:20vh"> Maritime and Port Authority of Singapore (MPA) </p>
 locations:
   - title: Main Office
     address:
@@ -16,6 +16,7 @@ locations:
         description: Closed on Saturdays and Public Holidays
   
 contacts:
+  -title:Enquiries
     content:
     - email: Mr Wu Zhenwei - WU_Zhenwei@mpa.gov.sg
     - email: Mr Gavin Yeo - Gavin_YEO@mpa.gov.sg
