@@ -16,7 +16,7 @@ locations:
         description: Closed on Saturdays and Public Holidays
   
 contacts:
-  -title:Enquiries
+  -title: Enquiries
     content:
     - email: Mr Wu Zhenwei - WU_Zhenwei@mpa.gov.sg
     - email: Mr Gavin Yeo - Gavin_YEO@mpa.gov.sg
