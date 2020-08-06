@@ -14,11 +14,11 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Saturdays and Public Holidays
-  
 contacts:
-  -title: Enquiries
+  - title: General Enquiries & Feedback
     content:
     - email: Mr Wu Zhenwei - WU_Zhenwei@mpa.gov.sg
     - email: Mr Gavin Yeo - Gavin_YEO@mpa.gov.sg
     - email: Mr Foo Chi Jao - FOO_Chi_Jao@mpa.gov.sg
+  
 ---
