@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 
-digitalOCEANS™ (**O**pen/**C**ommon **E**xchange **A**nd **N**etwork **S**tandardisation) is envisioned to be an interoperable platform and information hub that facilitates cross-border data exchange and automated services across supply chain players, clearance authorities and other national single windows.
+digitalOCEANS™ (**O**pen/**C**ommon **E**xchange **A**nd **N**etwork **S**tandardisation) is an initiative to harmonise API/data standards to achieve ship-port data exchange interoperability along the maritime transport chain process and to facilitate efficient processing of port reporting requirements and formalities.
 
 ![overview](/images/overview1.png)
 

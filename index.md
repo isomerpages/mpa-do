@@ -19,7 +19,7 @@ sections:
     - infobar:
         title: Overview
         subtitle: What is digitalOCEANS™
-        description: digitalOCEANS™ is envisioned to be an interoperable platform and information hub that facilitates cross-border data exchange and automated services across supply chain players, clearance authorities and other national single windows.
+        description: digitalOCEANS™ is envisioned to harmonise API/data standards to achieve ship-port data exchange interoperability along the maritime transport chain process and to facilitate efficient processing of port reporting requirements and formalities
         button: View More
         url: /about/
 
