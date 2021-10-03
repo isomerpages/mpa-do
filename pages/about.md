@@ -9,7 +9,7 @@ digitalOCEANS™ (**O**pen/**C**ommon **E**xchange **A**nd **N**etwork **S**tand
 ![overview](/images/overview1.png)
 
 
-![overview](/images/overview2.JPG)
+![overview](/images/overview2.jpg)
 
 
 Through this initiative, we hope to promote global data standards and serve as a data bridge among all the global supply chain community stakeholders and digital platforms. 
