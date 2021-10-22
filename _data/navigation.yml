@@ -2,15 +2,8 @@ logo: /images/mpalogo.JPG
 links:
   - title: About
     url: /about/
-  - title: Media
-    url: /media
-    sublinks:
-      - title: Events
-        url: /events
-      - title: Blog
-        url: /blog
-  - title: Resources
-    url: /resources
+  - title: Our API
+    url: /our-api
     sublinks:
       - title: Getting Started
         url: /getting-started
@@ -20,5 +13,12 @@ links:
         url: /tools-libraries
       - title: Support
         url: /support
+  - title: Media
+    url: /media
+    sublinks:
+      - title: Events
+        url: /events
+      - title: Blog
+        url: /blog
   - title: Contact Us
     url: /contact-us/
