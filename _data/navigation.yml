@@ -6,3 +6,15 @@ links:
     url: /about/
   - title: Media
     url: /media
+    sublinks:
+      - title: Events
+        url: /events
+      - title: Blog
+        url: /blog
+  - title: Developers
+    url: /developers
+    sublinks:
+      - title: Documentation
+        url: /documentation
+      - title: API Reference Index
+        url: /permalink
