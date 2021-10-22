@@ -14,9 +14,11 @@ links:
     sublinks:
       - title: Getting Started
         url: /getting-started
-      - title: Documentation
+      - title: API Documentation
         url: /documentation
       - title: Tools and Libraries
         url: /tools-libraries
+      - title: Support
+        url: /support
   - title: Contact Us
     url: /contact-us/
