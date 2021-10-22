@@ -1,7 +1,5 @@
 logo: /images/mpalogo.JPG
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About
     url: /about/
   - title: Media
@@ -18,3 +16,5 @@ links:
         url: /documentation
       - title: API Reference Index
         url: /permalink
+  - title: Contact Us
+    url: /contact-us/
