@@ -22,3 +22,5 @@ links:
         url: /blog
   - title: Contact Us
     url: /contact-us/
+  - title: Our Api
+    collection: our-api
