@@ -2,4 +2,5 @@ collections:
   our-api:
     output: true
     order:
+      - Documentation.md
       - Getting Started.md
