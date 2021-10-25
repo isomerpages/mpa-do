@@ -1,4 +1,5 @@
 collections:
   our-api:
     output: true
-    order: []
+    order:
+      - Getting Started.md
