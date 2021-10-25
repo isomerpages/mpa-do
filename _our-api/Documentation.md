@@ -6,4 +6,3 @@ permalink: /our-api/documentation
 | -------- | -------- |
 | Text     | Text     |
 | Text     | Text     |
-
