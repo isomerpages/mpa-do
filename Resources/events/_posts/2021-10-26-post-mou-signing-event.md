@@ -10,6 +10,8 @@ Since 2019, the International Maritime Organization (IMO) Facilitation (FAL) Con
 
 The MoU signing will feature six partners, with more to come onboard. This MoU marks the beginning of our quest to bring on more partners as we work together towards concrete deliverables on data harmonisation and API specifications development for seamless data exchange across global partners.
 
+<p>&nbsp;</p>
+
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-rbi_k-URjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
