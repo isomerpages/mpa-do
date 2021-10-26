@@ -12,7 +12,6 @@ links:
       - title: Blog
         url: /blog
   - title: Resources
-    resource_room: true
     sublinks:
       - title: API Documentation
         url: /resources/api-documentation
