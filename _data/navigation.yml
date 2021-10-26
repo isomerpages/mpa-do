@@ -15,6 +15,6 @@ links:
     resource_room: true
     sublinks:
       - title: API Documentation
-        url: /Resources/api-documentation
+        url: /resources/api-documentation
   - title: Contact Us
     url: /contact-us/
