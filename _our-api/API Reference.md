@@ -5,8 +5,8 @@ permalink: /our-api/reference
 <table class="docs-table">
 	<tbody>
 			<tr class="table-title">
-				<td>Version</td>
-				<td>Details</td>
+				<td><strong>Version</strong></td>
+				<td><strong>Details</strong></td>
 			</tr>
 			<tr>
 				<td>API v1.4</td>
