@@ -2,7 +2,7 @@ logo: /images/mpalogo.JPG
 links:
   - title: About
     url: /about/
-  - title: Our Api
+  - title: Our API
     collection: our-api
   - title: Media
     resource_room: true
