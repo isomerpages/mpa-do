@@ -342,18 +342,22 @@ $desktop: 960px + (2 * $gap) !default;
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
-}
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+	
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
 }
 	  
 .docs-table {
   .table-title {
     background: #f0f4f6;
-    padding: 10px 20px;
+  }
+	
+  td {
+    padding: 1em;
   }
 }
