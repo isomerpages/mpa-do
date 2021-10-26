@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Getting Started.md
-      - Documentation.md
+      - API Reference Index.md
