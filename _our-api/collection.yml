@@ -2,5 +2,6 @@ collections:
   our-api:
     output: true
     order:
+      - Changelog.md
       - Getting Started.md
       - API Reference.md
