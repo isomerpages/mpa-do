@@ -42,7 +42,8 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: test test
+description: An Initiative to Foster Global Interoperability through Open/Common
+  Data Standards And API Exchanges
 staging: https://mpa-do-staging.netlify.app
 prod: https://mpa-do-prod.netlify.app
 plugins:
