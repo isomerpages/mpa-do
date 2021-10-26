@@ -4,7 +4,7 @@ permalink: /our-api/reference
 ---
 <table class="docs-table">
 	<tbody>
-			<tr>
+			<tr class="table-title">
 				<td>Version</td>
 				<td>Details</td>
 			</tr>
