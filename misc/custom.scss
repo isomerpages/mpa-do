@@ -358,6 +358,6 @@ $desktop: 960px + (2 * $gap) !default;
   }
 	
   td {
-    padding: 1em;
+    padding: 1em !important;
   }
 }
