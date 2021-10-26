@@ -13,3 +13,5 @@ links:
         url: /blog
   - title: Contact Us
     url: /contact-us/
+  - title: Resources
+    resource_room: true
