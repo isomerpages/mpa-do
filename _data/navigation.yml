@@ -5,6 +5,8 @@ links:
   - title: Our API
     collection: our-api
   - title: Media
+    url: /Resources
+  - title: Media
     resource_room: true
   - title: Contact Us
     url: /contact-us/
