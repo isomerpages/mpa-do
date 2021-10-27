@@ -1,6 +1,6 @@
 ---
 title: MOU Signing Event
-date: 2020-08-04
+date: 2020-07-28
 permalink: /Resources/events/permalink
 layout: post
 ---
