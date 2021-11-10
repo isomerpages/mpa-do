@@ -5,19 +5,15 @@ description: An Initiative to Foster Global Interoperability through Open/Common
   Data Standards And API Exchanges
 image: /images/mpalogo.JPG
 permalink: /
-notification: MoU signing on 28 July 2020. Stay tuned for further updates on this page.
+notification: ""
 sections:
   - hero:
-      title: <p style="color:white;font-size:5vh"> digitalOCEANS™ </p>
+      title: digitalOCEANS™
       subtitle: An Initiative to Foster Global Interoperability through Open/Common
         Data Standards And API Exchanges
       background: /images/hero-bg.jpg
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: Our API
-          description: API Documentations
-          url: /api-doc/
   - infobar:
       title: Overview
       subtitle: What is digitalOCEANS™
