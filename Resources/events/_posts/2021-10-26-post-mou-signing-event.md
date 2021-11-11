@@ -1,9 +1,10 @@
 ---
 title: MOU Signing Event
-date: 2020-07-28
-permalink: /Resources/events/permalink
+date: 2021-10-26
+permalink: /Resources/events/mou-signing-event
 layout: post
 ---
+
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-rbi_k-URjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
