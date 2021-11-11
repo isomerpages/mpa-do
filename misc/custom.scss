@@ -338,6 +338,12 @@ $desktop: 960px + (2 * $gap) !default;
 	  
 
 // Grace edit
+// Homepage
+.partners-logo {
+  display: flex;	
+}
+
+// Blog posts
 .video-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -351,7 +357,8 @@ $desktop: 960px + (2 * $gap) !default;
     height: 100%;
   }
 }
-	  
+
+// API reference
 .docs-table {
   .table-title {
     background: #f0f4f6;
