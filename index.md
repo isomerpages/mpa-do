@@ -31,8 +31,11 @@ sections:
       url: /mou-event/
   - infobar:
       title: Our Partners
-      description: <img src="/images/mpalogo.jpg" />-- CargoSmart -- Global e-Trade services -- Maersk GTD -- Port of
-        Rotterdam Authority -- PSA International --
+      description: 
+      <ul class="partners-logo">
+        <li><img src="/images/logo_cargosmart.svg" alt="CargoSmart" /></li>
+        <li><img src="/images/logo_gets.svg" alt="Global e-Trade Services" /></li>
+      </ul>
       button: View MoU Event
       url: /mou-event/
 ---
