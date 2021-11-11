@@ -340,7 +340,10 @@ $desktop: 960px + (2 * $gap) !default;
 // Grace edit
 // Homepage
 .partners-logo {
+  width: 100%;
   display: flex;
+  justify-content: space-around;
+  padding: 20px;
 
   li img {
     width: 100%;
