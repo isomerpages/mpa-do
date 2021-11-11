@@ -9,16 +9,8 @@ permalink: /our-api/reference
 				<td><strong>Details</strong></td>
 			</tr>
 			<tr>
-				<td>API v1.4</td>
-				<td>[API Documentation]<a href="/files/TEST_API_User_Guide_Documentation.pdf" target="_blank">digitalOCEANS API v1.4</a></td>
-			</tr>
-			<tr>
-				<td>API v1.1</td>
-				<td>[API Documentation]<a href="/files/TEST_API_User_Guide_Documentation.pdf" target="_blank">digitalOCEANS API v1.1</a></td>
-			</tr>
-			<tr>
-				<td>API v1</td>
-				<td>[API Documentation]<a href="/files/TEST_API_User_Guide_Documentation.pdf" target="_blank">digitalOCEANS API v1</a></td>
+				<td>v1.0</td>
+				<td>To be released by end Nov 2021</td>
 			</tr>
 	</tbody>
 </table>
