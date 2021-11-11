@@ -344,6 +344,7 @@ $desktop: 960px + (2 * $gap) !default;
 	display: flex;
 	justify-content: space-evenly;
 	flex-wrap: wrap;
+	gap: 20px;
 
   	li img {
     	width: 100%;
