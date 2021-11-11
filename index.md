@@ -31,7 +31,7 @@ sections:
       url: /mou-event/
   - infobar:
       title: Our Partners
-      description: <ul class="partners-logo"><li><img src="/images/logo_cargosmart.svg" alt="CargoSmart" width="100%" height="100%" /></li><li><img src="/images/logo_gets.svg" alt="Global e-Trade Services" width="100%" height="100%" /></li></ul>
+      description: <ul class="partners-logo"><li><img src="/images/logo_cargosmart.svg" alt="CargoSmart" /></li><li><img src="/images/logo_gets.svg" alt="Global e-Trade Services" /></li></ul>
       button: View MoU Event
       url: /mou-event/
 ---
