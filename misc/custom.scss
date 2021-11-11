@@ -340,7 +340,7 @@ $desktop: 960px + (2 * $gap) !default;
 // GRACE EDIT
 // Homepage
 .partners-logo {
-	padding: 1rem 0
+	padding: 0 1rem;
 	width: 100%;
 	display: flex;
 	justify-content: space-evenly;
