@@ -348,14 +348,6 @@ $desktop: 960px + (2 * $gap) !default;
 	@include touch() {
 		flex-wrap: wrap;	
 	}
-	
-	li {
-		width: auto;
-		
-		@include touch() {
-			width: 50%;
-		}
-	}
 
   	li img {
     	width: 100%;
