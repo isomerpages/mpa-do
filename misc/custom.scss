@@ -342,12 +342,8 @@ $desktop: 960px + (2 * $gap) !default;
 .partners-logo {
 	width: 100%;
 	display: flex;
-	justify-content: space-around;
-	flex-wrap: nowrap;
-
-	@include touch() {
-		flex-wrap: wrap;	
-	}
+	justify-content: space-evenly;
+	flex-wrap: wrap;
 
   	li img {
     	width: 100%;
