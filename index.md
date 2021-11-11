@@ -31,7 +31,7 @@ sections:
       url: /mou-event/
   - infobar:
       title: Our Partners
-      description: <ul class="partners-logo"><li><img src="/images/logo_cargosmart.svg" alt="CargoSmart" /></li><li><img src="/images/logo_gets.svg" alt="Global e-Trade Services" /></li><li><img src="/images/maersk_group_logo.svg" alt="Maersk GTD" /></li></ul>
+      description: <ul class="partners-logo"><li><img src="/images/logo_cargosmart.svg" alt="CargoSmart" /></li><li><img src="/images/maersk_group_logo.svg" alt="Maersk GTD" /></li><li><img src="/images/logo_port_of_rotterdam.svg" alt="Port of Rotterdam Authority" /></li><li><img src="/images/logo_psa_international.svg" alt="PSA International" /></li></ul>
       button: View MoU Event
       url: /mou-event/
 ---
