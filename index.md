@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: digitalOCEANS™ <img src="/images/mpalogo.jpg" />
+title: digitalOCEANS™
 description: An Initiative to Foster Global Interoperability through Open/Common
   Data Standards And API Exchanges
 image: /images/mpalogo.JPG
