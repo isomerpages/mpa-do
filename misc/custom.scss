@@ -343,9 +343,9 @@ $desktop: 960px + (2 * $gap) !default;
   display: flex;
 
   li img {
-    width: 200px;
+    width: 100%;
     max-width: 200px;
-    height: auto;
+    height: 100%;
   }
 }
 
