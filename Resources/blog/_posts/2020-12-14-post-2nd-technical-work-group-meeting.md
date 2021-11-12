@@ -1,9 +1,10 @@
 ---
 title: 2nd Technical Work Group Meeting
 date: 2020-12-14
-permalink: /Resources/blog/second-technical-meeting
+permalink: /Resources/blog/api-use-cases
 layout: post
 ---
+
 
 
 
