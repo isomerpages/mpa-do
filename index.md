@@ -32,7 +32,7 @@ sections:
         src="/images/maersk_group_logo.svg" alt="Maersk GTD" /></li><li><img
         src="/images/logo_port_rotterdam.svg" alt="Port of Rotterdam Authority"
         /></li><li><img src="/images/logo_psa_international.svg" alt="PSA
-        International" /></li></ul>
+        International" /></li><li><img src="/images/logo_tradelens.svg" alt="TradeLens" /></li></ul>
       button: View MoU Event
       url: /Resources/events/mou-signing-event
 ---
