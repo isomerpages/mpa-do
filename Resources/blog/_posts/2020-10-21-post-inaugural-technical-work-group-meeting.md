@@ -1,9 +1,10 @@
 ---
 title: Inaugural Technical Work Group Meeting
 date: 2020-10-21
-permalink: /blog/inaugural-technical-work-group-meeting
+permalink: /Resources/blog/inaugural-technical-group-meeting
 layout: post
 ---
+
 
 
 
