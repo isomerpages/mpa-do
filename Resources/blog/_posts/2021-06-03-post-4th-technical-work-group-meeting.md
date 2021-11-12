@@ -1,9 +1,10 @@
 ---
 title: 4th Technical Work Group Meeting
 date: 2021-06-03
-permalink: /Resources/blog/port-clearance-api-first-draft
+permalink: /Resources/blog/fourth-technical-meeting
 layout: post
 ---
+
 
 
 
