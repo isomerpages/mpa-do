@@ -358,6 +358,10 @@ $desktop: 960px + (2 * $gap) !default;
   	}
 }
 	  
+.homepage-linkout:after {
+	display: none;
+}
+	  
 #main-site-logo {
 	width: 100%;
 	max-width: 80px;
