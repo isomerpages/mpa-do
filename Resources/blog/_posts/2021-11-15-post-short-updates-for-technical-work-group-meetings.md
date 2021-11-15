@@ -4,7 +4,7 @@ date: 2021-11-15
 permalink: /Resources/blog/permalink
 layout: post
 ---
-<h3><strong>2<sup>nd</sup> Technical Work Group Meeting</strong></h3>
+<h4><strong>2<sup>nd</sup> Technical Work Group Meeting</strong></h4>
 
 <h6>Posted on 14 Dec 2020</h6>
 
