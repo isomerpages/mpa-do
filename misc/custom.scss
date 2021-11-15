@@ -347,10 +347,14 @@ $desktop: 960px + (2 * $gap) !default;
 	flex-wrap: wrap;
 	gap: 1rem 2rem;
 
+	li {
+		width: calc (100% / 3);	
+	}
+	
 	li img {
-    	width: 100%;
-    	max-width: 120px;
-    	height: 100%;
+    		width: 100%;
+    		max-width: 120px;
+    		height: 100%;
   	}
 }
 
