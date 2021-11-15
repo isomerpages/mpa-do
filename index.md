@@ -28,7 +28,7 @@ sections:
       description: <ul class="partners-logo"><li><img
         src="/images/logo_cargosmart.svg" alt="CargoSmart" /></li><li><img
         src="/images/logo_dcsa_new.svg" alt="Digital Container Shipping
-        Association" /></li><li><img src="/images/logo_gets_new.svg" alt="GeTS"
+        Association" /></li><li><img src="/images/logo_gets.svg" alt="GeTS"
         /></li><li><img src="/images/maersk_group_logo.svg" alt="Maersk GTD"
         /></li><li><img src="/images/logo_port_rotterdam.svg" alt="Port of
         Rotterdam Authority" /></li><li><img
