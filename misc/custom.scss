@@ -361,6 +361,7 @@ $desktop: 960px + (2 * $gap) !default;
 #main-site-logo {
 	width: 100%;
 	max-width: 80px;
+	padding: 1rem 0 0;
 }
 
 // Blog posts
