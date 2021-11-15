@@ -1,9 +1,10 @@
 ---
 title: Short Updates For Technical Work Group Meetings
 date: 2020-12-14
-permalink: /Resources/blog/permalink
+permalink: /Resources/blog/technical-group-meeting-updates
 layout: post
 ---
+
 
 <h3><strong>6<sup>th</sup> Technical Work Group Meeting</strong></h3>
 
