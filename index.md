@@ -37,4 +37,7 @@ sections:
         /></li></ul>
       button: View MoU Event
       url: /Resources/events/mou-signing-event
+  - infobar:
+      subtitle: An initiative by
+      description: Infobar description
 ---
