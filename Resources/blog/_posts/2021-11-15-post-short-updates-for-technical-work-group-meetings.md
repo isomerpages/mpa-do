@@ -12,6 +12,6 @@ layout: post
 
 <h4><strong>2<sup>nd</sup> Technical Work Group Meeting</strong></h4>
 
-<h6>Posted on 14 December, 2020</h6>
+<h6 style="margin-top: 1rem;">Posted on 14 December, 2020</h6>
 
 <p>The group shared on the potential use cases that the API specifications on port clearance could benefit their respective organisations. The group also discussed on the deliverables and work needed.</p>
