@@ -359,7 +359,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 	  
 .homepage-linkout:after {
-	display: none;
+	display: none !important;
 }
 	  
 #main-site-logo {
