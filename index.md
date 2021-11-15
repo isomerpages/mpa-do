@@ -8,9 +8,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      description: <img src="/images/logo_digitaloceans.png" />
-      subtitle: An Initiative to Foster Global Interoperability through Open/Common
-        Data Standards And API Exchanges
+      description: <p><img src="/images/logo_digitaloceans.png" /></p><p>An Initiative to Foster Global Interoperability through Open/Common
+        Data Standards And API Exchanges</p>
       background: /images/hero-bg.jpg
       button: Contact Us
       url: /contact-us/
