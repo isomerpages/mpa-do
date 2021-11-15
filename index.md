@@ -17,10 +17,10 @@ sections:
   - infobar:
       title: Overview
       subtitle: What is digitalOCEANS™
-      description: digitalOCEANS™ is envisioned to harmonise API/data standards to
+      description: <p><img src="/images/logo_digitaloceans.png" /></p><p>digitalOCEANS™ is envisioned to harmonise API/data standards to
         achieve ship-port data exchange interoperability along the maritime
         transport chain process and to facilitate efficient processing of port
-        reporting requirements and formalities
+        reporting requirements and formalities</p>
       button: View More
       url: /about/
   - infobar:
