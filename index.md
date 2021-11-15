@@ -8,18 +8,19 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      description: <p><img src="/images/logo_digitaloceans.png" /></p><p>An Initiative to Foster Global Interoperability through Open/Common
-        Data Standards And API Exchanges</p>
+      title: digitalOCEANS™
+      subtitle: An Initiative to Foster Global Interoperability through Open/Common
+        Data Standards And API Exchanges
       background: /images/hero-bg.jpg
       button: Contact Us
       url: /contact-us/
   - infobar:
       title: Overview
       subtitle: What is digitalOCEANS™
-      description: <p><img src="/images/logo_digitaloceans.png" /></p><p>digitalOCEANS™ is envisioned to harmonise API/data standards to
+      description: digitalOCEANS™ is envisioned to harmonise API/data standards to
         achieve ship-port data exchange interoperability along the maritime
         transport chain process and to facilitate efficient processing of port
-        reporting requirements and formalities</p>
+        reporting requirements and formalities
       button: View More
       url: /about/
   - infobar:
