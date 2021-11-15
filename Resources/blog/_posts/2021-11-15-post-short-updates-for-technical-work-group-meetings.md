@@ -6,7 +6,7 @@ layout: post
 ---
 <h3><strong>3<sup>rd</sup> Technical Work Group Meeting</strong></h3>
 
-<h6>Posted on 22 March, 2021</h6>
+<div style="margin-top: 1rem; color: #565656;">Posted on 22 March, 2021</div>
 
 <p>The group shared on the current capabilities and services provided by their organisations to better understand on the API and data interaction needed between the various systems.</p>
 
