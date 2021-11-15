@@ -1,9 +1,10 @@
 ---
 title: Short Updates For Steering Committee Meeting
 date: 2021-07-02
-permalink: /Resources/blog/permalink
+permalink: /Resources/blog/steering-committee-meeting-updates
 layout: post
 ---
+
 
 
 <h3><strong>2<sup>nd</sup> Steering Committee Meeting</strong></h3>
