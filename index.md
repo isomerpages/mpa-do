@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: digitalOCEANS™
+title: digitalOCEANS
 description: An Initiative to Foster Global Interoperability through Open/Common
   Data Standards And API Exchanges
 image: /images/mpalogo.JPG
@@ -26,13 +26,15 @@ sections:
   - infobar:
       title: Our Partners
       description: <ul class="partners-logo"><li><img
-        src="/images/logo_cargosmart.svg" alt="CargoSmart" /></li><li><img src="/images/logo_dcsa_new.svg"
-        alt="Digital Container Shipping Association" /></li><li><img
-        src="/images/logo_gets_new.svg" alt="GeTS" /></li><li><img
-        src="/images/maersk_group_logo.svg" alt="Maersk GTD" /></li><li><img
-        src="/images/logo_port_rotterdam.svg" alt="Port of Rotterdam Authority"
-        /></li><li><img src="/images/logo_psa_international.svg" alt="PSA
-        International" /></li><li><img src="/images/logo_tradelens.svg" alt="TradeLens" /></li></ul>
+        src="/images/logo_cargosmart.svg" alt="CargoSmart" /></li><li><img
+        src="/images/logo_dcsa_new.svg" alt="Digital Container Shipping
+        Association" /></li><li><img src="/images/logo_gets_new.svg" alt="GeTS"
+        /></li><li><img src="/images/maersk_group_logo.svg" alt="Maersk GTD"
+        /></li><li><img src="/images/logo_port_rotterdam.svg" alt="Port of
+        Rotterdam Authority" /></li><li><img
+        src="/images/logo_psa_international.svg" alt="PSA International"
+        /></li><li><img src="/images/logo_tradelens.svg" alt="TradeLens"
+        /></li></ul>
       button: View MoU Event
       url: /Resources/events/mou-signing-event
 ---
