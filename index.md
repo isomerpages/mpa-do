@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: digitalOCEANS™
+      description: <img src="/images/logo_digitaloceans.png" />
       subtitle: An Initiative to Foster Global Interoperability through Open/Common
         Data Standards And API Exchanges
       background: /images/hero-bg.jpg
