@@ -39,5 +39,5 @@ sections:
       url: /Resources/events/mou-signing-event
   - infobar:
       subtitle: An initiative by
-      description: <a href="https://www.mpa.gov.sg/web/portal/home" style="width: 80px;"><img src="/images/mpalogo.jpg" /></a>
+      description: <a href="https://www.mpa.gov.sg/web/portal/home"><img id="main-site-logo" src="/images/mpalogo.jpg" /></a>
 ---
