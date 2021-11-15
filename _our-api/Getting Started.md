@@ -2,7 +2,7 @@
 title: Getting Started
 permalink: /our-api/getting-started
 ---
-<h3>Introduction</h3>
+<h3><strong>Introduction</strong></h3>
 
 The objective of the digitalOCEANSTM Port Clearance API specifications is to standardise the technical implementation for port clearance related data between data consumers and providers. This would steamline the implementation efforts by port authorities and the industry to enable interoperability between various systems.
 
