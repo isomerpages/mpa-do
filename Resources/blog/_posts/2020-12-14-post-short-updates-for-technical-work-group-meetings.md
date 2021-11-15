@@ -4,17 +4,15 @@ date: 2020-12-14
 permalink: /Resources/blog/technical-group-meeting-updates
 layout: post
 ---
-
-
 <h3><strong>6<sup>th</sup> Technical Work Group Meeting</strong></h3>
 
-<div style="margin-top: 1rem; color: #565656;">Posted on 3 June, 2021</div>
+<div style="margin-top: 1rem; color: #565656;">Posted on 30 September, 2021</div>
 
 <p>The group addressed comments from the second draft and discussed plans to conduct trials after publishing the Port Clearance API specifications by the end of November 2021. The third draft of the port clearance API specifications was produced subsequently.</p>
 
 <h3><strong>5<sup>th</sup> Technical Work Group Meeting</strong></h3>
 
-<div style="margin-top: 1rem; color: #565656;">Posted on 3 June, 2021</div>
+<div style="margin-top: 1rem; color: #565656;">Posted on 29 July, 2021</div>
 
 <p>The group discussed on first draft of the port clearance API specifications. The second draft of the port clearance API specifications was produced subsequently.</p>
 
