@@ -357,6 +357,11 @@ $desktop: 960px + (2 * $gap) !default;
     		height: 100%;
   	}
 }
+	  
+#main-site-logo {
+	width: 100%;
+	max-width: 80px;
+}
 
 // Blog posts
 .video-container {
