@@ -10,7 +10,7 @@ permalink: /our-api/reference
 			</tr>
 			<tr>
 				<td>v1.0</td>
-				<td>To be released by end Nov 2021</td>
+				<td><a href="/files/TEST_API_User_Guide_Documentation.pdf" target="_blank">Port Clearance API Specifications</a></td>
 			</tr>
 	</tbody>
 </table>
