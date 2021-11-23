@@ -1,13 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/mpalogo.JPG
-
+logo: /images/logo_digitaloceans.png
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About
     url: /about/
+  - title: Our API
+    collection: our-api
+  - title: Media Centre
+    url: /Resources
+  - title: Contact Us
+    url: /contact-us/
