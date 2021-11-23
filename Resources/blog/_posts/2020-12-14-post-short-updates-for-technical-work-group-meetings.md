@@ -33,3 +33,9 @@ layout: post
 <div style="margin-top: 1rem; color: #565656;">Posted on 14 December, 2020</div>
 
 <p>The group shared on the potential use cases that the API specifications on port clearance could benefit their respective organisations. The group also discussed on the deliverables and work needed.</p>
+
+<h3><strong>Inaugural Technical Work Group Meeting</strong></h3>
+
+<div style="margin-top: 1rem; color: #565656;">Posted on 21 October, 2020</div>
+
+<p>The group shared on the potential use cases that the API specifications on port clearance could benefit their respective organisations. The group also discussed on the deliverables and work needed.</p>
