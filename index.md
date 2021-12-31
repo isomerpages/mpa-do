@@ -1,5 +1,5 @@
-<script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
 ---
+<script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
 layout: homepage
 title: digitalOCEANS™
 description: An Initiative to Foster Global Interoperability through Open/Common
