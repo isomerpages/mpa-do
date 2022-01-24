@@ -4,7 +4,7 @@ permalink: /our-api/permalink
 ---
 <h3><strong>24 January, 2022</strong></h3>
 
-Removed duplicated description for agentCity field.
+A duplicated description for agentCity field was removed.
 
 <h3><strong>23 November, 2021</strong></h3>
 
