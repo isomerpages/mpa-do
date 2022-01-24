@@ -10,7 +10,7 @@ permalink: /our-api/reference
 			</tr>
 		  <tr>
 				<td>v1.1</td>
-				<td><a href="/files/API_Specifications_for_Port_Clearance.pdf" target="_blank">Port Clearance API Specifications</a></td>
+				<td><a href="/files/API_Specifications_for_Port_Clearance_1-1.pdf" target="_blank">Port Clearance API Specifications V1.1</a></td>
 			</tr>
 			<tr>
 				<td>v1.0</td>
