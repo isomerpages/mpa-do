@@ -1,7 +1,7 @@
 ---
 title: Short Updates For Technical Work Group Meetings
 date: 2021-09-30
-permalink: /Resources/blog/technical-group-meeting-updates
+permalink: /media-centre/blog/technical-group-meeting-updates
 layout: post
 ---
 
