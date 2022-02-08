@@ -1,6 +1,6 @@
 ---
 title: Launch Of The API Specifications For Port Clearance
-permalink: /Resources/blog/launch-api-specifications-port-clearance
+permalink: /media-centre/blog/launch-api-specifications-port-clearance
 date: 2021-11-23
 layout: post
 description: ""
