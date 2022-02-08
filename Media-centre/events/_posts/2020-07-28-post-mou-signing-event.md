@@ -1,7 +1,7 @@
 ---
 title: MOU Signing Event
 date: 2020-07-28
-permalink: /Resources/events/mou-signing-event
+permalink: /media-centre/events/mou-signing-event
 layout: post
 ---
 
