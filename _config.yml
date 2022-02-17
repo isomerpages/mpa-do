@@ -3,7 +3,7 @@ url: ""
 favicon: /images/mpalogo.JPG
 colors:
   primary-color: "#01899f"
-  secondary-color: "#09a276"
+  secondary-color: "#009b74"
   media-colors:
     - title: media-color-one
       color: "#49759a"
