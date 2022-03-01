@@ -39,5 +39,5 @@ sections:
       url: /Resources/events/mou-signing-event
   - infobar:
       subtitle: An initiative by
-      description: <img id="main-site-logo" src="/images/mpalogo.jpg" alt="MPA" />
+      description: <img id="mpa-initiative-logo" src="/images/mpalogo.jpg" alt="MPA" />
 ---
