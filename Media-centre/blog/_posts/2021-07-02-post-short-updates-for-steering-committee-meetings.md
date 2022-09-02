@@ -14,4 +14,4 @@ layout: post
 
 <div style="margin-top: 1rem; color: #565656;">Posted on 2 November, 2020</div>
 
-<p>*   The introductory meeting where leaders of the respective organisations convened and confirmed on the Steering Committee’s Terms of Reference (TOR). The steering committee discussed on the planned development roadmap and key milestones for the technical work group.</p>
+<p>The introductory meeting where leaders of the respective organisations convened and confirmed on the Steering Committee’s Terms of Reference (TOR). The steering committee discussed on the planned development roadmap and key milestones for the technical work group.</p>
