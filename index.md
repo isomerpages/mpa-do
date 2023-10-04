@@ -36,7 +36,7 @@ sections:
         /></li><li><img src="/images/logo_tradelens.svg" alt="TradeLens"
         /></li></ul>
       button: View MoU Event
-      url: /Resources/events/mou-signing-event
+      url: /media-centre/events/mou-signing-event
   - infobar:
       subtitle: An initiative by
       description: <img id="mpa-initiative-logo" src="/images/mpalogo.jpg" alt="MPA" />
